@@ -1,0 +1,309 @@
+.size_10 {
+  font-size: 10px;
+  line-height: 12px;
+}
+
+.size_12 {
+  font-size: 12px;
+  line-height: 14px;
+}
+
+.size_14 {
+  font-size: 14px;
+  line-height: 16px;
+}
+
+.size_16 {
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.size_20 {
+  font-size: 20px;
+  line-height: 23px;
+}
+
+.size_28 {
+  font-size: 28px;
+  line-height: 33px;
+}
+
+.color_black {
+  color: var(--black);
+}
+
+.color_orange {
+  color: var(--orange);
+}
+
+.color_green {
+  color: var(--green);
+}
+
+.color_white {
+  color: var(--white);
+}
+
+.color_greyF4 {
+  color: var(--greyF4);
+}
+
+.color_greyF3 {
+  color: var(--greyF3);
+}
+
+.color_greyEC {
+  color: var(--greyEC);
+}
+
+.color_greyD9 {
+  color: var(--greyD9);
+}
+
+.color_greyC4 {
+  color: var(--greyC4);
+}
+
+.color_grey99 {
+  color: var(--grey99);
+}
+
+.color_grey66 {
+  color: var(--grey66);
+}
+
+.upperCase {
+  text-transform: uppercase;
+}
+
+.bold {
+  font-weight: 500;
+}
+
+@media all and (min-width: 320px) and (max-width: 1023px) {
+  .size_m_10 {
+    font-size: 10px;
+    line-height: 12px;
+  }
+
+  .size_m_12 {
+    font-size: 12px;
+    line-height: 14px;
+  }
+
+  .size_m_14 {
+    font-size: 14px;
+    line-height: 16px;
+  }
+
+  .size_m_16 {
+    font-size: 16px;
+    line-height: 19px;
+  }
+
+  .size_m_20 {
+    font-size: 20px;
+    line-height: 23px;
+  }
+
+  .size_m_28 {
+    font-size: 28px;
+    line-height: 33px;
+  }
+
+  .color_m_black {
+    color: var(--black);
+  }
+
+  .color_m_orange {
+    color: var(--orange);
+  }
+
+  .color_m_green {
+    color: var(--green);
+  }
+
+  .color_m_white {
+    color: var(--white);
+  }
+
+  .color_m_greyF4 {
+    color: var(--greyF4);
+  }
+
+  .color_m_greyF3 {
+    color: var(--greyF3);
+  }
+
+  .color_m_greyEC {
+    color: var(--greyEC);
+  }
+
+  .color_m_greyD9 {
+    color: var(--greyD9);
+  }
+
+  .color_m_greyC4 {
+    color: var(--greyC4);
+  }
+
+  .color_m_grey99 {
+    color: var(--grey99);
+  }
+
+  .color_m_grey66 {
+    color: var(--grey66);
+  }
+}
+
+@media all and (min-width: 1024px) and (max-width: 1539px) {
+  .size_t_10 {
+    font-size: 10px;
+    line-height: 12px;
+  }
+
+  .size_t_12 {
+    font-size: 12px;
+    line-height: 14px;
+  }
+
+  .size_t_14 {
+    font-size: 14px;
+    line-height: 16px;
+  }
+
+  .size_t_16 {
+    font-size: 16px;
+    line-height: 19px;
+  }
+
+  .size_t_20 {
+    font-size: 20px;
+    line-height: 23px;
+  }
+
+  .size_t_28 {
+    font-size: 28px;
+    line-height: 33px;
+  }
+
+  .color_t_black {
+    color: var(--black);
+  }
+
+  .color_t_orange {
+    color: var(--orange);
+  }
+
+  .color_t_green {
+    color: var(--green);
+  }
+
+  .color_t_white {
+    color: var(--white);
+  }
+
+  .color_t_greyF4 {
+    color: var(--greyF4);
+  }
+
+  .color_t_greyF3 {
+    color: var(--greyF3);
+  }
+
+  .color_t_greyEC {
+    color: var(--greyEC);
+  }
+
+  .color_t_greyD9 {
+    color: var(--greyD9);
+  }
+
+  .color_t_greyC4 {
+    color: var(--greyC4);
+  }
+
+  .color_t_grey99 {
+    color: var(--grey99);
+  }
+
+  .color_t_grey66 {
+    color: var(--grey66);
+  }
+}
+
+@media all and (min-width: 1540px) {
+  .size_d_10 {
+    font-size: 10px;
+    line-height: 12px;
+  }
+
+  .size_d_12 {
+    font-size: 12px;
+    line-height: 14px;
+  }
+
+  .size_d_14 {
+    font-size: 14px;
+    line-height: 16px;
+  }
+
+  .size_d_16 {
+    font-size: 16px;
+    line-height: 19px;
+  }
+
+  .size_d_20 {
+    font-size: 20px;
+    line-height: 23px;
+  }
+
+  .size_d_28 {
+    font-size: 28px;
+    line-height: 33px;
+  }
+
+  .color_d_black {
+    color: var(--black);
+  }
+
+  .color_d_orange {
+    color: var(--orange);
+  }
+
+  .color_d_green {
+    color: var(--green);
+  }
+
+  .color_d_white {
+    color: var(--white);
+  }
+
+  .color_d_greyF4 {
+    color: var(--greyF4);
+  }
+
+  .color_d_greyF3 {
+    color: var(--greyF3);
+  }
+
+  .color_d_greyEC {
+    color: var(--greyEC);
+  }
+
+  .color_d_greyD9 {
+    color: var(--greyD9);
+  }
+
+  .color_d_greyC4 {
+    color: var(--greyC4);
+  }
+
+  .color_d_grey99 {
+    color: var(--grey99);
+  }
+
+  .color_d_grey66 {
+    color: var(--grey66);
+  }
+}

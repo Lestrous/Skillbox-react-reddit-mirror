@@ -1,0 +1,22 @@
+@media all and (min-width: 1024px) {
+  .cardsList {
+    padding: 40px 0;
+  }
+}
+
+.loadMoreButton {
+  width: 100%;
+  height: 40px;
+  background-color: var(--white);
+  color: var(--orange);
+  border-radius: 3px;
+  border: 1px solid var(--orange);
+  transition-duration: 0.3s;
+}
+
+.loadMoreButton:hover,
+.loadMoreButton:active,
+.loadMoreButton:focus {
+  background-color: var(--orange);
+  color: white;
+}

@@ -1,0 +1,68 @@
+.commentContainer {
+  display: flex;
+  width: 100%;
+  margin-top: 33px;
+
+  .counterContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+    min-width: 40px;
+
+    .verticalLine {
+      width: 3px;
+      height: 100%;
+      background-color: var(--greyD9);
+    }
+  }
+
+  .textContainer {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+
+    .metaData {
+      display: flex;
+      flex-flow: row nowrap;
+      align-items: center;
+      margin-bottom: 13px;
+      gap: 4px;
+      font-size: 14px;
+      line-height: 16px;
+
+      .createdAt {
+        color: var(--grey99);
+      }
+
+      .userLabel {
+        padding: 3px 7px;
+        background-color: var(--greyD9);
+        color: #333333;
+      }
+    }
+
+    .textContent {
+      margin-bottom: 13px;
+    }
+
+    .actions {
+      display: flex;
+
+      .actionItem {
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        cursor: pointer;
+      }
+
+      .actionItem:not(:last-child) {
+        margin-right: 27px;
+      }
+    }
+
+    .postCommentForm {
+      margin-top: 33px;
+    }
+  }
+}
